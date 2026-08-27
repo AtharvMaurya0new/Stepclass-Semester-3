@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PalindromeChecker {
+public class palindrome {
 
     static boolean isPalindromeIterative(String text) {
 
@@ -80,6 +80,6 @@ public class PalindromeChecker {
                 (result2 ? "Palindrome" : "Not Palindrome"));
 
         System.out.println("Array Reversal: " +
-                (result3 ? "Palindrome" : "Not Palindrome hai bhai"));
+                (result3 ? "Palindrome" : "Not Palindrome "));
     }
 }
