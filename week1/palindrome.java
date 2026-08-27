@@ -80,6 +80,6 @@ public class PalindromeChecker {
                 (result2 ? "Palindrome" : "Not Palindrome"));
 
         System.out.println("Array Reversal: " +
-                (result3 ? "Palindrome" : "Not Palindrome"));
+                (result3 ? "Palindrome" : "Not Palindrome hai bhai"));
     }
 }
