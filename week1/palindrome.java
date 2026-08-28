@@ -81,5 +81,6 @@ public class palindrome {
 
         System.out.println("Array Reversal: " +
                 (result3 ? "Palindrome" : "Not Palindrome "));
+        sc.close();        
     }
 }
